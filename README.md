@@ -1,6 +1,6 @@
 ## Hi there, I'm Ashish Sasanapuri 👋
 
-I am an AI Engineer at Critical Mineral Trackers, specializing in the analysis of chemical elements and their concentrations using advanced machine learning techniques. My passion lies in uncovering insights from complex data and developing innovative AI solutions.
+I am an AI Engineer at Critical Mineral Trackers, specializing in mineral exploration using advanced machine learning techniques. My passion lies in uncovering insights from complex data and developing innovative AI solutions.
 
 ### 🔬 About Me
 
@@ -24,10 +24,10 @@ I am an AI Engineer at Critical Mineral Trackers, specializing in the analysis o
 - 💼 **LinkedIn**: [[Ashish Sasanapuri]](https://www.linkedin.com/in/ashish-sasanapuri/)
 <!-- - 🌐 **Website/Blog**: [Your personal website or blog] -->
 
-### 📈 GitHub Stats
+<!--### 📈 GitHub Stats
 
 ![Ashish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashish-Sasna&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
 
 ### 🌐 Visitor Count
 
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=Ashish-Sasna.Ashish-Sasna)
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=Ashish-Sasna.Ashish-Sasna)-->
