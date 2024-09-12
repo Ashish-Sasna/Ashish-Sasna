@@ -6,7 +6,9 @@ I am an AI Engineer at Critical Mineral Trackers, specializing in mineral explor
 
 - 🎓 **Education**: I have a strong Machine Learning, Artificial Intelligence, and Computer Science background.
 - 🧠 **Focus**: Machine Learning, Data Analysis, Deep Learning.
-- 🔍 **Current Projects**: 
+- 🔍 **Current Projects**:
+  - **Image Processing**: Extracting feature vectors from Remote Sensing images and training DL models.  
+  - **Mineral Zones Exploration**: Identifying prospective mineral zones using Geophysical and Geological features. 
   - **Predictive Modeling**: Utilizing PCA, Regression modeling, and CNN models for predictive tasks in geochemical datasets.
   - **Visualization Tools**: Developing functions to plot contour maps and variations in chemical element concentrations.
 - 🌱 **Learning**: Continuously expanding my knowledge in AI and machine learning techniques.
